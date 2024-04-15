@@ -544,35 +544,7 @@ div.search button {
         grid: none;
     }
 
-    /*.service:nth-child(1) {
-        grid-column: 1/4;
-    }
-
-    .service:nth-child(2){
-        grid-column: 4/span 6;
-    }
-
-    /*
-    .services.service:nth-child(1){
-        grid-column: 1/4;
-    }
-
-    .serivices.service:nth-child(2){
-        grid-column: 4/span 3;
-    }
-
-    .services.service:nth-child(3){
-        grid-column: 1/span 2;
-    }
-
-    .services.service:nth-child(4){
-        grid-column: 3/span 2;
-    }
-
-    .services.service:nth-child(5){
-        grid-column: 5/span 2;
-    }
-
+    
     /* Team Page */
 
     .team {
